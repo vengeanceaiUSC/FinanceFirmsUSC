@@ -23,6 +23,8 @@ These are the strongest matches: a person in talent acquisition, HR, campus recr
 | **Gryphon Investors** | Private Equity | ~$7B | **Barry Becker** | Managing Director, Human Resources team | MBA specializing in Human Resources, USC | https://www.gryphon-inv.com/team/barry-becker/ |
 | **JMI Equity** | Growth Equity / Software PE | ~$6B | **Haley Donzella** | HR Manager | Master's in Human Resource Management, USC | https://www.jmi.com/team/donzella-haley/ |
 | **Chandler Asset Management** | Asset Management (Public Sector) | ~$45B | **Adriana Haefner, SHRM-SCP** | Director of Human Resources | B.A., University of Southern California | https://www.chandlerasset.com/team-members/adriana-haefner-shrm-scp-cpsp/ |
+| **Pathway Capital Management** | Private Markets / FoF | ~$125B+ committed | **Jodi M. Field** | Human Resources Manager | Master's in occupational social work, University of Southern California | https://pathwaycapital.com/team/jodi-field/ |
+| **Causeway Capital Management** | Asset Management | ~$79B | **Jaime Rochon** | Director of Human Resources | B.A., Phi Beta Kappa, University of Southern California | https://www.causewaycap.com/person/jaime-rochon/ |
 
 ### Tier A — $1–10B AUM focus (newest verified matches)
 
@@ -39,6 +41,14 @@ These are the strongest **mid-cap** matches where AUM falls in the **$1–10 bil
 - **Stafford** has moved from Global Head of HR & Talent Management to Global Head of Product Strategy; her USC MBA and prior HR leadership are still on official PIMCO bios.
 - **Asikian** is on Human Capital operations (not a campus recruiter title). Included because she is a named HR/talent function employee with USC degrees on Cerity's official team page.
 - **Louie** leads HR/talent acquisition at a16z (VC portfolio hiring and firm HR), not traditional undergrad campus OCR.
+- **Field** (Pathway) is the California-office HR manager whose primary responsibility is talent acquisition across Pathway's U.S. and international offices.
+- **Rochon** (Causeway) oversees recruiting plus employee relations and benefits for the global equity manager (~$79B AUM per firm homepage, June 2026).
+
+### Near-miss (below $1B AUM threshold)
+
+| Firm | Named Contact | Role | USC Connection | Why excluded |
+|------|---------------|------|----------------|--------------|
+| **Crossplane Capital** | **Cullen Steele** | Managing Director, Portfolio Talent | MBA, USC Marshall | Firm regulatory AUM ~$736M — below $1B+ scope |
 
 ---
 
