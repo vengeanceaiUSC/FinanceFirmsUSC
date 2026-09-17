@@ -4,6 +4,8 @@ Research compiled from **official firm websites** and **non-USC university pages
 
 **Scope:** VC, asset/wealth management, hedge funds, PE/alternatives — **not investment banking**. Firms with **$1B+ AUM**. Named person must hold a **recruiting/talent/HR role** (not PM/investor) with a **verifiable USC tie on an official firm page**.
 
+**Excel deliverable:** [`Recruiters/`](Recruiters/) folder contains tiered `.xlsx` workbooks (Tier A verified, Tier A $1–10B focus, Tier B $1–10B, and master combined file).
+
 ---
 
 ## Tier A — Verified: Named USC-Connected Recruiter on Official Firm Page
@@ -18,6 +20,18 @@ These are the strongest matches: a person in talent acquisition, HR, campus recr
 | **PIMCO** | Asset Management | ~$1.9T+ | **Kimberley Stafford** | MD, Global Head of Product Strategy *(formerly Global Head of HR & Talent Management)* | MBA, Marshall School of Business, USC | https://www.pimco.com/mea/en/experts/kimberley-stafford |
 | **FS Investments** | Alternatives / Credit | ~$82B | **Dr. Scott Stimpfel** | Head of Human Resources | B.S. Business Administration, University of Southern California | https://fsinvestments.com/fs-investments-hires-scott-stimpfel-as-head-of-human-resources/ |
 | **Cerity Partners** | Wealth Management | ~$100B+ RAUM | **Madlene Asikian** | Senior Associate, Human Capital team | B.A. Psychology + M.A. Human Resources Management, USC | https://ceritypartners.com/team/madlene-asikian/ |
+| **Gryphon Investors** | Private Equity | ~$7B | **Barry Becker** | Managing Director, Human Resources team | MBA specializing in Human Resources, USC | https://www.gryphon-inv.com/team/barry-becker/ |
+| **JMI Equity** | Growth Equity / Software PE | ~$6B | **Haley Donzella** | HR Manager | Master's in Human Resource Management, USC | https://www.jmi.com/team/donzella-haley/ |
+| **Chandler Asset Management** | Asset Management (Public Sector) | ~$45B | **Adriana Haefner, SHRM-SCP** | Director of Human Resources | B.A., University of Southern California | https://www.chandlerasset.com/team-members/adriana-haefner-shrm-scp-cpsp/ |
+
+### Tier A — $1–10B AUM focus (newest verified matches)
+
+These are the strongest **mid-cap** matches where AUM falls in the **$1–10 billion** range:
+
+| Firm | Named Contact | Role | USC Connection | Source |
+|------|---------------|------|----------------|--------|
+| **Gryphon Investors** (~$7B) | **Barry Becker** | MD, Human Resources team | MBA (HR specialization), USC | https://www.gryphon-inv.com/team/barry-becker/ |
+| **JMI Equity** (~$6B) | **Haley Donzella** | HR Manager | MS Human Resource Management, USC | https://www.jmi.com/team/donzella-haley/ |
 
 ### Notes on Tier A
 
@@ -56,6 +70,22 @@ These buy-side firms have documented recruiting interaction with USC students (v
 | **Thoma Bravo** | PE | ~$150B+ | Talent function | https://www.thomabravo.com/team/becca-galliano | VP Talent Becca Galliano — Eastern Illinois, not USC |
 | **Bessemer Trust** | Wealth Management | ~$175B+ | CHRO leads recruiting | https://www.bessemertrust.com/people/rita-c-kane | Rita Kane — Cornell, not USC |
 | **Fisher Investments** | Asset Management | ~$200B+ | Global Human Capital / TA | https://www.fisherinvestments.com/en-us/about/leadership/executive-leadership/greg-miramontes | Greg Miramontes — UC San Diego, not USC |
+
+### Tier B — $1–10B AUM (USC interaction, no named USC-connected recruiter on firm page)
+
+| Firm | Category | ~AUM | USC Interaction | Gap |
+|------|----------|------|-----------------|-----|
+| **Shore Capital Partners** | PE (lower middle market) | ~$3–5B+ | USC alum analyst Chris Araujo; Director of Talent Bryan Sienerth | Sienerth/Hiskes — no USC on official bios |
+| **Questa Capital** | Healthcare VC / growth | ~$1B+ | USC Marshall alum Steph Scott (VP investor) | No recruiter with USC tie |
+| **Sageview Capital** | Growth equity | ~$2B+ | USC alum Andy Greos (Principal) | Investor, not recruiter |
+| **Greycroft** | VC | ~$1B+ | USC alum Dylan Pearce (Partner, LA) | No talent leader with USC tie |
+| **Upfront Ventures** | VC (LA) | ~$1B+ | Sarah Bell VP of Talent; Nancy Davila HR support | No USC education on official people pages |
+| **Verition Fund Management** | Multi-strategy HF | ~$5–10B | 2027 campus internship program | No named USC-connected recruiter |
+| **Lead Edge Capital** | Growth equity | ~$5B+ | MD Talent Adam Stein; USC investor Michael Sutter | Stein — Yale, not USC |
+| **Crosslink Capital** | VC / public equity | ~$3B+ | USC alum Cullen Riley (investor) | No USC recruiter |
+| **OpenView** | VC | ~$4B+ | Portfolio talent team | No USC-connected talent leader on firm page |
+| **Mucker Capital** | VC | ~$1B+ | USC alum Jenn Kranz Guillen (investor) | Not firm recruiter role |
+| **Lido Advisors** | Wealth | ~$46B* | **Justin Morr** VP Senior Corporate Recruiter (named on firm page) | No USC tie on official bio (*above $10B) |
 
 ### USC Marshall at Fink Credit Pitch Competition
 

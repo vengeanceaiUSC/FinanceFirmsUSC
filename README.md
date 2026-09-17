@@ -6,6 +6,7 @@ Research datasets for USC-connected buy-side and financial recruiting.
 
 | File | Criteria |
 |------|----------|
+| [`Recruiters/`](Recruiters/) | **Excel workbooks** — Tier A verified, Tier A $1–10B AUM, Tier B $1–10B, master combined |
 | [`BUY_SIDE_USC_RECRUITERS.md`](BUY_SIDE_USC_RECRUITERS.md) | **Buy-side only** (VC, AM, HF, PE/alts — no IB). **$1B+ AUM**. Named **firm-side recruiter/talent leader with USC tie** on official firm pages. No USC sites, no RocketReach. |
 | [`buy_side_usc_recruiters.csv`](buy_side_usc_recruiters.csv) | CSV export of the above (Tier A + Tier B) |
 | [`usc_finance_firms_100plus.csv`](usc_finance_firms_100plus.csv) | Broader 128-firm USC finance recruiting list (includes IB, USC event sources) |
